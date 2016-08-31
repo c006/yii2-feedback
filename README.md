@@ -23,6 +23,13 @@ or add
 to the require section of your `composer.json` file.
 
 
+Run
+-----
+
+Migrations `m000000_000000_c006_feedback`
+
+I would suggest using my console, it's very easy to update migrations.
+
 
 Usage
 -----
