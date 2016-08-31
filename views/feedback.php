@@ -31,6 +31,16 @@ use yii\widgets\ActiveForm;
     #container-feedback > .table {
         margin : 0 auto;
         }
+
+    #container-feedback .item-container {
+        background-color: rgba(255, 255, 255, 0.45);
+        border-radius: 10px;
+        display: block;
+        margin: 0;
+        padding: 10px 30px;
+        position: relative;
+        width: 100%;
+        }
 </style>
 
 
